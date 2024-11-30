@@ -1,1 +1,2 @@
-<h1> Stable.fun Superteam Project </h1>
+<h1> Stable.fun Superteam dummy Project </h1>
+Used eth ecosystem not a main project 
